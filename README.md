@@ -1,4 +1,4 @@
-## REACT-WHATSAPP-CLONE using NEXT.JS,Styled Components deployed on VERCEL [SERVER SIDE RENDERING]
+## REACT-WHATSAPP-CLONE using NEXT.JS, Styled Components deployed on VERCEL [SERVER SIDE RENDERING]
 
 Hosted on VERCEL ~ https://react-whatsapp-clone-lake.vercel.app/
 
